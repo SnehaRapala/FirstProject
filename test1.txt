@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1852-11F3
+
+ Directory of C:\Users\hp\Documents\My Project
+
+09-05-2023  22:58    <DIR>          .
+09-05-2023  22:58    <DIR>          ..
+09-05-2023  22:58                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,398,636,544 bytes free
